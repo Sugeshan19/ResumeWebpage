@@ -6,7 +6,9 @@
 ## Procedure:
 
  1.open visual studio code and create a project folder 
+ 
  2.create a html file and css file 
+ 
  3.paste the code
 
  # Program:
