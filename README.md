@@ -6,7 +6,9 @@
 ## Procedure:
 
  1.open visual studio code and create a project folder 
+
  2.create a html file and css file 
+ 
  3.paste the code
 
  # Program:
@@ -214,3 +216,14 @@ hr {
         color:blue;
       }
 ```
+# OUTPUT
+
+  ![alt text](<Screenshot 2025-05-14 131350.png>)
+
+
+
+![alt text](<Screenshot 2025-05-14 131428.png>)
+
+
+
+![alt text](<Screenshot 2025-05-14 131450.png>)
